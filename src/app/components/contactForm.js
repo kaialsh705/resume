@@ -39,7 +39,7 @@ const ContactPage = () => {
           </div>
           <div class="my-2 w-1/2 lg:w-1/4">
             <button
-              class="uppercase text-sm font-bold tracking-wide text-center bg-black  text-gray-100 p-3 rounded-lg w-full 
+              class="bg-green-700 hover:bg-green-800 text-sm font-bold tracking-wide text-center  text-gray-100 p-3 rounded-lg w-full 
                       focus:outline-none focus:shadow-outline"
             >
               Let's talk
@@ -49,55 +49,32 @@ const ContactPage = () => {
 
         <div class="w-full lg:-mt-96 lg:w-2/6 px-8 py-12 ml-auto bg-slate-700 rounded-2xl">
           <div class="flex flex-col text-white">
-            <h1 class="font-bold uppercase text-4xl my-4">
-              Drop in our office
+            <h1 class="font-bold text-4xl my-4">
+            Contact Info
             </h1>
-            <p class="text-gray-400">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-              tincidunt arcu diam, eu feugiat felis fermentum id. Curabitur
-              vitae nibh viverra, auctor turpis sed, scelerisque ex.
+            <p class="text-gray-300">
+              Don't hesitate to get in touch! I'm open to conversations about projects, opportunities, or anything else you'd like to discuss. Looking forward to connecting! 🚀
             </p>
-
-            <div class="flex my-4 w-2/3 lg:w-1/2">
-              <div class="flex flex-col">
-                <i class="fas fa-map-marker-alt pt-2 pr-2" />
-              </div>
-              <div class="flex flex-col">
-                <h2 class="text-2xl">Main Office</h2>
-                <p class="text-gray-400">
-                  5555 Tailwind RD, Pleasant Grove, UT 73533
-                </p>
-              </div>
-            </div>
 
             <div class="flex my-4 w-2/3 lg:w-1/2">
               <div class="flex flex-col">
                 <i class="fas fa-phone-alt pt-2 pr-2" />
               </div>
               <div class="flex flex-col">
-                <h2 class="text-2xl">Call Us</h2>
-                <p class="text-gray-400">Tel: xxx-xxx-xxx</p>
-                <p class="text-gray-400">Fax: xxx-xxx-xxx</p>
+                <h2 class="text-2xl">Call Me</h2>
+                <p class="text-gray-300">📧 Email: kailashsharmaansh1999@gmail.com</p>
+                <p class="text-gray-300">📱 Phone: 7678163520</p>
+                <p class="text-gray-300">📱 Phone: 7531949220</p>
               </div>
             </div>
 
             <div class="flex my-4 w-2/3 lg:w-1/2">
-              <a
-                href="https://www.facebook.com/ENLIGHTENEERING/"
-                target="_blank"
-                rel="noreferrer"
-                class="rounded-full bg-white h-8 w-8 inline-block mx-1 text-center pt-1"
-              >
+              <sapn class="rounded-full bg-green-700 h-4 w-4 inline-block mx-1 text-center pt-1">
                 <i class="fab fa-facebook-f text-blue-900" />
-              </a>
-              <a
-                href="https://www.linkedin.com/company/enlighteneering-inc-"
-                target="_blank"
-                rel="noreferrer"
-                class="rounded-full bg-white h-8 w-8 inline-block mx-1 text-center pt-1"
-              >
+              </sapn>
+              <sapn class="rounded-full bg-green-700 h-4 w-4 inline-block mx-1 text-center pt-1">
                 <i class="fab fa-linkedin-in text-blue-900" />
-              </a>
+              </sapn>
             </div>
           </div>
         </div>

@@ -12,7 +12,7 @@ const SocialLink = () => {
         <div class="mx-auto mt-10  max-w-2xl  gap-x-8 gap-y-16 border-t border-gray-200 pt-10  sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           <article class="bg-slate-700 p-10 rounded-xl flex flex-col items-start justify-between">
             <div class="grid lg:grid-cols-6 sm:gap-10 md:gap-10 lg:gap-20 md:grid-cols-1 lg:max-w-none">
-              <a target="_blank" href="#" class="flex space-x-2 items-center">
+              <a target="_blank" href="https://github.com/kaialsh705" class="flex space-x-2 items-center">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   class="h-7 w-7"
@@ -24,7 +24,7 @@ const SocialLink = () => {
                 </svg>
                 <p class="text-white">GitHub</p>
               </a>
-              <a href="#" target="_blank" class="flex space-x-2 items-center">
+              <a href="https://www.facebook.com/kailash.sharma.5030?mibextid=LQQJ4d" target="_blank" class="flex space-x-2 items-center">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   class="h-7 w-7"
@@ -36,7 +36,7 @@ const SocialLink = () => {
                 </svg>
                 <p class="text-white">Facebook</p>
               </a>
-              <a href="#" target="_blank" class="flex space-x-2 items-center">
+              <a href="https://instagram.com/_kailash_0?utm_source=qr" target="_blank" class="flex space-x-2 items-center">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   class="h-7 w-7"
@@ -48,7 +48,7 @@ const SocialLink = () => {
                 </svg>
                 <p class="text-white">Instagram</p>
               </a>
-              <a href="#" target="_blank" class="flex space-x-2 items-center">
+              <a href="https://www.linkedin.com/in/kailash-sharma-8b5151184" target="_blank" class="flex space-x-2 items-center">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   class="h-7 w-7"
