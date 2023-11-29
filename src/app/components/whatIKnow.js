@@ -1,14 +1,14 @@
 "use client";
 const WhatIKnowPage = () => {
   return (
-    <div class="bg-white py-24 sm:py-32">
+    <div class="bg-gray-800 py-10">
       <div class="mx-auto max-w-7xl px-6 lg:px-8">
         <div class="mx-auto max-w-2xl lg:mx-0">
-          <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          <h2 class="text-3xl font-bold tracking-tight text-white sm:text-4xl">
             What I Know
           </h2>
         </div>
-        <div class="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+        <div class="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
         <article class="bg-slate-700 p-10 rounded-xl flex max-w-xl flex-col items-start justify-between">
             <div class="group relative">
               <h3 class="mt-3 text-lg font-semibold leading-6 text-white group-hover:text-gray-600">
