@@ -21,6 +21,7 @@ const WhatIKnowPage = () => {
                 <div class="border border-red-600 rounded-md border-1 bg-body text-xs text-primary p-2 text-white">JavaScript</div>
                 <div class="border border-yellow-600 rounded-md border-1 bg-body text-xs text-primary p-2 text-white">Tailwind</div>
                 <div class="border border-indigo-600 rounded-md border-1 bg-body text-xs text-primary p-2 text-white">React Js</div>
+                <div class="border border-orange-600 rounded-md border-1 bg-body text-xs text-primary p-2 text-white">React Native</div>
                 <div class="border border-pink-600 rounded-md border-1 bg-body text-xs text-primary p-2 text-white">Next Js</div>
               </div>
             </div>
@@ -34,6 +35,7 @@ const WhatIKnowPage = () => {
               <div class="flex flex-wrap gap-2 mt-4">
                 <div class="border border-green-800 rounded-md border-1 bg-body text-xs text-primary p-2 text-white">Django</div>
                 <div class="border border-indigo-600 rounded-md border-1 bg-body text-xs text-primary p-2 text-white">Python</div>
+                <div class="border border-indigo-600 rounded-md border-1 bg-body text-xs text-primary p-2 text-white">Socket IO</div>
               </div>
             </div>
           </article>
@@ -57,6 +59,8 @@ const WhatIKnowPage = () => {
               <div class="flex flex-wrap gap-2 mt-4">
                 <div class="border border-black rounded-md border-1 bg-body text-xs text-primary p-2 text-white">AWS</div>
                 <div class="border border-orange-600 rounded-md border-1 bg-body text-xs text-primary p-2 text-white">GIT</div>
+                <div class="border border-orange-600 rounded-md border-1 bg-body text-xs text-primary p-2 text-white">Firebase</div>
+                <div class="border border-orange-600 rounded-md border-1 bg-body text-xs text-primary p-2 text-white">Flurry</div>
               </div>
             </div>
           </article>
