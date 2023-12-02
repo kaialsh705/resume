@@ -42,7 +42,7 @@ const ContactPage = () => {
               className="bg-green-700 hover:bg-green-800 text-sm font-bold tracking-wide text-center  text-gray-100 p-3 rounded-lg w-full 
                       focus:outline-none focus:shadow-outline"
             >
-              Let`&apos;`s talk
+              Let&apos;s talk
             </button>
           </div>
         </div>
@@ -53,7 +53,7 @@ const ContactPage = () => {
             Contact Info
             </h1>
             <p className="text-gray-300">
-              Don`&apos;`t hesitate to get in touch! I`&apos;`m open to conversations about projects, opportunities, or anything else you`&apos;`d like to discuss. Looking forward to connecting! 🚀
+              Don&apos;t hesitate to get in touch! I&apos;m open to conversations about projects, opportunities, or anything else you&apos;d like to discuss. Looking forward to connecting! 🚀
             </p>
 
             <div className="flex my-4 w-2/3 lg:w-1/2">
