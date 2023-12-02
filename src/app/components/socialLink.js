@@ -11,7 +11,7 @@ const SocialLink = () => {
         </div>
         <div className="mx-auto mt-10  max-w-2xl  gap-x-8 gap-y-16 border-t border-gray-200 pt-10  sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           <article className="bg-slate-700 p-10 rounded-xl flex flex-col items-start justify-between">
-            <div className="grid lg:grid-cols-6 sm:gap-10 md:gap-10 lg:gap-20 md:grid-cols-1 lg:max-w-none">
+            <div className="grid lg:grid-cols-6 sm:gap-10 md:gap-10 lg:gap-20 gap-10 md:grid-cols-1 lg:max-w-none">
               <a target="_blank" href="https://github.com/kaialsh705" className="flex space-x-2 items-center">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
