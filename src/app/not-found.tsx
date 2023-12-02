@@ -182,7 +182,7 @@ export default function NotFound() {
               </svg>
 
             </div>
-            <p className="text-sm md:text-base text-white p-2 mb-4">The stuff you were looking for doesn't exist
+            <p className="text-sm md:text-base text-white p-2 mb-4">The stuff you were looking for doesn`&apos;`t exist
             </p>
             <a href="/"
               className="bg-transparent  text-white rounded shadow py-2 px-4 border border-green-800 hover:bg-green-800">
